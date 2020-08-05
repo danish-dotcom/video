@@ -1,7 +1,7 @@
 # Video App
 
 See videos of anything, from cars to cities in the Video App
-Created as part of [Udemy React-Redux course(https://www.udemy.com/course/react-redux)
+Created as part of [Udemy React-Redux course](https://www.udemy.com/course/react-redux)
 
 ## Test on Your Own
 
